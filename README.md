@@ -1,2 +1,1 @@
-
-C = ls -l
+fuck
