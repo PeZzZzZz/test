@@ -1,3 +1,12 @@
 K = frefergsrjkfwehjkrvhekjhgvr
+dwefrerge:wq
 
-C = ls -d:wq
+
+ervgre
+g
+erg
+e
+te
+tr
+
+tr
