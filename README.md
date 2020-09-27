@@ -1,3 +1,3 @@
 K = frefergsrjkfwehjkrvhekjhgvr
 
-C = ls -l
+C = ls -d:wq
